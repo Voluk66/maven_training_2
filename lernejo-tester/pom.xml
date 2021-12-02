@@ -29,6 +29,10 @@
             <version>RELEASE</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.reflections</groupId>
+            <artifactId>reflections</artifactId>
+        </dependency>
     </dependencies>
 
     <properties>
@@ -36,5 +40,4 @@
         <maven.compiler.target>17</maven.compiler.target>
         <assertj.version>3.21.0</assertj.version>
     </properties>
-
 </project>
