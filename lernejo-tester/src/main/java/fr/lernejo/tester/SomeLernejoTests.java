@@ -13,6 +13,7 @@ public class SomeLernejoTests {
     public void ko(){
         new IllegalStateException();
     }
+
     public void none(){
 
     }
